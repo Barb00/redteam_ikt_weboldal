@@ -73,3 +73,14 @@ title {
 
 }
 
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+h4 , h5 , h6 {
+        font-size:20px;
+
+}
+
